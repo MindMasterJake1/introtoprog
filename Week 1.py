@@ -13,7 +13,7 @@ name = "Jake"
 print(f"Hello, {name}")
 
 # Version 3 - Taking user input
-name = input("Enter you name: ")
+name = input("Enter your name: ")
 print(f"Hello, {name}")
 
 #Version 4 - Preventing null values and errors using try / except
