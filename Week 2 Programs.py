@@ -32,4 +32,3 @@ students = int(input("How many students are there? "))
 
 per_student = sweets // students
 print(f"Each pupil will receive {per_student} sweets")
-# wrong commit whoops
